@@ -6,13 +6,6 @@
       "license_key": "MOTOPGio3ucNV5Vg6T9CAD0HoHywVkFWZRpI",
       "license_expiry": "2025-12-31",
       "status": "active"
-    },
-    {
-      "username": "user1",
-      "password": "admin123",
-      "license_key": "MOTOSZ381nEsZo2S2yF90AsuEzluFGfuKmmC",
-      "license_expiry": "2026-12-31",
-      "status": "active"
     }
   ]
 }
