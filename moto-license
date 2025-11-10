@@ -4,20 +4,29 @@
       "username": "motomest",
       "password": "motomest",
       "license_key": "MOTOPGio3ucNV5Vg6T9CAD0HoHywVkFWZRpI",
-      "license_expiry": "2025-12-31"
+      "license_expiry": "2025-12-31",
+      "status": "active"
     },
     {
       "username": "user1",
       "password": "user123",
       "license_key": "LIC-2024-USER-001",
-      "license_expiry": "2026-12-31"
+      "license_expiry": "2026-12-31",
+      "status": "active"
     },
- {
+    {
       "username": "wicenta",
       "password": "wicenta",
       "license_key": "LIC-2024-USER-001",
-      "license_expiry": "2026-12-31"
+      "license_expiry": "2026-12-31",
+      "status": "active"
+    },
+    {
+      "username": "1",
+      "password": "1",
+      "license_key": "1",
+      "license_expiry": "2025-11-10",
+      "status": "active"
     }
   ]
 }
-1
