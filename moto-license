@@ -5,7 +5,7 @@
       "password": "admin123",
       "license_key": "MOTOadminLicenseKey123456789",
       "license_expiry": "2026-12-31 23:59:00",
-      "status": "active",
+      "status": "inactive",
       "role": "admin",
       "allowed_scripts": []
     },
