@@ -14,9 +14,7 @@
       "password": "sifre123",
       "license_key": "MOTOuserLicenseKey987654321",
       "license_expiry": "2025-06-30 20:59:00",
-      "status": "active",
-      "role": "user",
-      "allowed_scripts": []
+      "status": "inactive"
     }
   ]
 }
